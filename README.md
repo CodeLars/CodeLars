@@ -1,7 +1,7 @@
 # About Me
-Hallo, ich bin Max! 👋
+Hallo, ich bin Lars! 👋
 Willkommen auf meinem GitHub-Profil! Ich bin Medizinischer Informatiker mit einer Leidenschaft für die Entwicklung von Softwarelösungen im Gesundheitswesen. Mein Fokus liegt auf der Verbesserung der Patientenversorgung und der Effizienz im Gesundheitswesen durch innovative digitale Lösungen.
-
+<br>
 🚀 An meinen aktuellen Projekten arbeite ich:
 🏥 Entwicklung von medizinischen Informationssystemen zur Unterstützung von Ärzten und Pflegepersonal
 💉 Nutzung von Machine Learning und Datenanalyse, um medizinische Entscheidungen zu verbessern
