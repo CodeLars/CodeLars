@@ -1,15 +1,14 @@
-# CodeLars
-Hi there, I'm Max! 👋
-Welcome to my GitHub profile! I'm a passionate Web Developer with a love for creating dynamic and user-friendly web applications. I specialize in modern web technologies and enjoy working on open-source projects to improve the tech community.
+Hallo, ich bin Max! 👋
+Willkommen auf meinem GitHub-Profil! Ich bin Medizinischer Informatiker mit einer Leidenschaft für die Entwicklung von Softwarelösungen im Gesundheitswesen. Mein Fokus liegt auf der Verbesserung der Patientenversorgung und der Effizienz im Gesundheitswesen durch innovative digitale Lösungen.
 
-🚀 What I'm working on:
-🌐 Developing responsive websites with React and Node.js
-🔧 Building custom tools and libraries to improve developer workflows
-📚 Learning more about machine learning and AI to explore new possibilities
-💻 Tech Stack:
-Frontend: JavaScript, React, HTML, CSS
-Backend: Node.js, Express, PHP
-Databases: MongoDB, MySQL
-Tools: Git, Docker, Webpack, Babel
-
-Gitconfig
+🚀 An meinen aktuellen Projekten arbeite ich:
+🏥 Entwicklung von medizinischen Informationssystemen zur Unterstützung von Ärzten und Pflegepersonal
+💉 Nutzung von Machine Learning und Datenanalyse, um medizinische Entscheidungen zu verbessern
+📊 Verbesserung der Interoperabilität zwischen verschiedenen Gesundheitssystemen und -plattformen
+💻 Mein Tech Stack:
+Frontend: JavaScript, Angular, Bootstrap, HTML, CSS
+Backend: C#, VB6, Java, PHP, Node.js
+Datenbanken: MySQL, PostgreSQL, Access
+Tools & Frameworks: Docker, Kubernetes, FastAPI, Flask, FHIR, HL7
+Machine Learning: Scikit-learn, TensorFlow, Keras
+Gesundheitsdaten: Erfahrung mit FHIR, HL7 und DICOM für die Integration medizinischer Daten
