@@ -1,24 +1,14 @@
-# Hallo, ich bin Lars! 👋
-Willkommen auf meinem GitHub-Profil! Ich bin Medizinischer Informatiker mit einer Leidenschaft für die Entwicklung von Softwarelösungen im Gesundheitswesen. Mein Fokus liegt auf der Verbesserung der Patientenversorgung und der Effizienz im Gesundheitswesen durch innovative digitale Lösungen.
-<br><br>
+# Hi, I'm Lars! 👋
+Welcome to my GitHub profile! I am a medical computer scientist with a passion for developing software solutions in the healthcare sector. My focus is on improving patient care and efficiency in healthcare through innovative digital solutions. 
+<a href="https://github.com/gematik">@Gematik</a> <a href="https://github.com/kassenaerztliche-bundesvereinigung">@KBV</a><br>
+<br>I also develop websites using the latest technologies. <br>
+My latest public project: <a href="https://github.com/CodeLars/Dr.Blech">Website to create metalsheet offers</a> (using PHP, Bootstrap, Angular)
 
+# 💻 My tech stack:
 
-🏥 Entwicklung von medizinischen Informationssystemen zur Unterstützung von Ärzten und Pflegepersonal
-<br>
-💉 Nutzung von Machine Learning und Datenanalyse, um medizinische Entscheidungen zu verbessern
-<br>
-📊 Verbesserung der Interoperabilität zwischen verschiedenen Gesundheitssystemen und -plattformen
-<br>
-💻 Mein Tech Stack:
-<br>
-Frontend: JavaScript, Angular, Bootstrap, HTML, CSS
-<br>
-Backend: C#, VB6, Java, PHP, Node.js
-<br>
-Datenbanken: MySQL, PostgreSQL, Access
-<br>
-Tools & Frameworks: Docker, Kubernetes, FastAPI, Flask, FHIR, HL7
-<br>
-Machine Learning: Scikit-learn, TensorFlow, Keras
-<br>
-Gesundheitsdaten: Erfahrung mit FHIR, HL7 und DICOM für die Integration medizinischer Daten
+Websites: PHP, Bootstrap, HTML, CSS,  Node.js, JavaScript, Angular 
+
+Desktop: C#, VB6, Java 
+
+Databases: SQL, MySQL, Access
+
