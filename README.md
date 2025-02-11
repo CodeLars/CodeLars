@@ -9,7 +9,7 @@ My latest public project: <a href="https://github.com/CodeLars/Dr.Blech">Website
 
 Websites: PHP, Bootstrap, HTML, CSS,  Node.js, JavaScript, Angular 
 
-Desktop: C#, VB6, Java 
+Desktop: C#, Java ,VB6 
 
 Databases: SQL, MySQL, Access
 
